@@ -25,7 +25,7 @@ SECRET_KEY = '&8%+stf^6&uw1t!4^)(@iwsnv*0q6&u3re=)pw$gm=0z$3^7%)'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', 'pythonanywhere.com', 'sukiyapi.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', '.pythonanywhere.com']
 
 
 # Application definition
